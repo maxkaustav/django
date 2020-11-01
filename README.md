@@ -4,6 +4,6 @@ The master branch contains only the updated files. To learn go to respective bra
 
 <h2>Topics and links sequentially</h2>
 <ol>
-<li>[Urls & Views](/github/maxkaustav/django/)</li>
-<li>[Templete and inheritance](/github/maxkaustav/django/)</li>
+<li>[Urls & Views](/github/maxkaustav/django/urls-views)</li>
+<li>[Templete and inheritance](/github/maxkaustav/django/templete-routing)</li>
 </ol>
