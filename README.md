@@ -5,4 +5,4 @@ The master branch contains only the updated files. To learn go to respective bra
 ## Topics and links sequentially
 
 1. [Urls & Views](https://github.com/maxkaustav/django/tree/urls-views)
-2. [Templete and inheritance](https://github.com/maxkaustav/django/tree/templete-routing)
+2. [Templete and inheritance](https://github.com/maxkaustav/django/tree/template_inheritance)
